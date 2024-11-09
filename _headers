@@ -1,2 +1,2 @@
 /**/*.{png,jpg,jpeg,gif,svg}  
-    Cache-Control: max-age=3600, must-revalidate
+    Cache-Control: max-age=86400, must-revalidate
